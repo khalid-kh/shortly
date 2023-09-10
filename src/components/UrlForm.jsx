@@ -82,8 +82,7 @@ const UrlForm = () => {
         </>
       ) : (
         <p className="mt-3 text-sm text-gray-300 sm:mt-4">
-          This websit uses shrtcode API and by using it you agree to their Terms
-          and services.
+          © All rights reserved by Kalid Abdella
         </p>
       )}
     </div>
